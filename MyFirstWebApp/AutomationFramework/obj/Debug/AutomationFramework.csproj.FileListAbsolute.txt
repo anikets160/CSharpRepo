@@ -1,0 +1,5 @@
+D:\CSharpRepo\MyFirstWebApp\AutomationFramework\bin\Debug\AutomationFramework.dll
+D:\CSharpRepo\MyFirstWebApp\AutomationFramework\bin\Debug\AutomationFramework.pdb
+D:\CSharpRepo\MyFirstWebApp\AutomationFramework\obj\Debug\AutomationFramework.csproj.CoreCompileInputs.cache
+D:\CSharpRepo\MyFirstWebApp\AutomationFramework\obj\Debug\AutomationFramework.dll
+D:\CSharpRepo\MyFirstWebApp\AutomationFramework\obj\Debug\AutomationFramework.pdb
